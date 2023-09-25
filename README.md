@@ -34,4 +34,9 @@ choose the api to execute
 ![image](https://github.com/srss-pocs/springboot-graphql/assets/145287517/553db630-db5c-4838-a08c-c7c4965d55dd)
 
 
+![image](https://github.com/srss-pocs/springboot-graphql/assets/145287517/2b2a0c48-6a9d-4d7d-b54b-836be651db37)
+
+![image](https://github.com/srss-pocs/springboot-graphql/assets/145287517/fe4a3b33-1667-4574-afed-c9c669592ba1)
+
+
 
