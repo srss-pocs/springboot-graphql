@@ -23,7 +23,15 @@ This automatically shows all api from our controller
 
 choose the api to execute
 
+![image](https://github.com/srss-pocs/springboot-graphql/assets/145287517/5b34f8f3-70b2-43a8-adc7-e2cc6bc6adb5)
 
-![image](https://github.com/srss-pocs/springboot-graphql/assets/145287517/43bdba40-7ba5-4170-86c8-59884ccaecd3)
+
+![image](https://github.com/srss-pocs/springboot-graphql/assets/145287517/380aef5a-d37d-464d-971f-202bf2c40c0c)
+
+
+
+
+![image](https://github.com/srss-pocs/springboot-graphql/assets/145287517/553db630-db5c-4838-a08c-c7c4965d55dd)
+
 
 
