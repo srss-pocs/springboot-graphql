@@ -6,4 +6,8 @@ Which will start the H2 db, H2 DB Console and inserts few records from GraphqlAp
 H2 console access : http://localhost:8080/h2-console
 Login with credentials available properties file
 
-![image](https://github.com/srss-pocs/springboot-graphql/assets/145287517/01b5e0f2-e1db-434a-9986-c82abfca0cd6)
+![image](https://github.com/srss-pocs/springboot-graphql/assets/145287517/1eb9d71c-1d59-4507-bdd8-f5d42fefb5c7)
+
+![image](https://github.com/srss-pocs/springboot-graphql/assets/145287517/27edae8c-7841-4021-8a2e-555ae406b18b)
+
+
