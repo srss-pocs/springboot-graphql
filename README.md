@@ -12,9 +12,18 @@ Login with credentials available properties file
 
 
 Download https://www.postman.com/downloads/
+
 Create a workspace Personal
+
 Click on New
+
 Select GraphQL API request paste http://localhost:8080/graphql
+
 This automatically shows all api from our controller
+
 choose the api to execute
+
+
+![image](https://github.com/srss-pocs/springboot-graphql/assets/145287517/43bdba40-7ba5-4170-86c8-59884ccaecd3)
+
 
