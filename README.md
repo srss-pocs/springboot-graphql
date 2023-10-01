@@ -1,3 +1,5 @@
+Spring Boot 3.1.4
+
 A Simple Graph QL Spring Boot Application which helps to query the fields what ever the way we want
 
 Start the application
